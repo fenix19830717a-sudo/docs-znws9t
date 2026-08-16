@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-7zx5vp.salamkita.shop/sitemap.xml
